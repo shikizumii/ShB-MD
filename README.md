@@ -1,4 +1,4 @@
-# Zetspublic
+# ShikiBOT-MD
 Script WhatsApp Bot Multi Device, Ori Hisoka-Morou
 
 ## NOTE
